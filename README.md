@@ -1,6 +1,6 @@
 ### Hi, I'm Dominic Ondigo 👋
 
-<img align="right" src="https://github.com/dominicondigo/dominicondigo/blob/master/IMG-20210905-WA0201 (1).jpg">
+
 
 Besides being a Quality Analyst, I like playing with data and try writing code in Python and R on my free time. My background is Actuarial Science. I currently work at Sama.
 
